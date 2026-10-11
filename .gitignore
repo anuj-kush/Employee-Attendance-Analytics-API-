@@ -1,0 +1,21 @@
+# secrets
+.env
+.env.*
+
+# virtual environments (your folder is named "venv")
+venv/
+.venv/
+
+# python caches and tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor settings
+.vscode/
+.idea/
+
+# local working folders and debug output (not part of the submission)
+starter_check/
+explain*.json
+*_pretty.json
