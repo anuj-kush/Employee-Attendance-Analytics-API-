@@ -19,3 +19,10 @@ __pycache__/
 starter_check/
 explain*.json
 *_pretty.json
+
+# candidate kit documents and debug output
+dept_summary.json
+trend.json
+PROBLEM_STATEMENT.docx
+openapi.yaml
+DATA_MODEL.md
